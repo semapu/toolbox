@@ -9,7 +9,7 @@ import unittest
 import sys
 sys.path.append('.')
 sys.path.append('..')
-from notebooks.clean_notebooks import clean_notebooks
+from remove_clean.notebooks import clean_notebooks
 
 
 class CleanNotebookTest(unittest.TestCase):
