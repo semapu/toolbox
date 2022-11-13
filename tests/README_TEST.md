@@ -5,6 +5,8 @@ and run Pylint
 
 # Python tests
 
+### Execution -- Folder
+
 To run the test, execute the following command from toolbok/ (inside)
 
     [shell]
@@ -12,6 +14,10 @@ To run the test, execute the following command from toolbok/ (inside)
     pytest ./tests/
 
 # Pylint
+
+### Description
+
+TO BE DONE ...
 
 ### Steps
 
@@ -22,7 +28,9 @@ To run the test, execute the following command from toolbok/ (inside)
 3. Install the Pylint `plugging from PyCharm`
    1. File > Settings > Pylint\
    2. Define Pylint executable -> File from the environemtn
-   3. Path to pylinttr -> Downloaded in step 2
+   3. Path to pylintr -> Downloaded in step 2
+   4. If necessary, define the arguments. Current arguments: `--indent-string "    " --indent-after-paren 4`
+      (based on PEP8).
 
 
 ### References
