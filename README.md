@@ -3,6 +3,8 @@
 Utilities useful across projects. The aims of this repository is to collect different tools that are interesting, 
 complex, or that could be used in different projects.
 
+Development of the toolbox is done using Conda environment `toolbok`.
+
 # Tests
 
 Before pushing any new change to the repository:
