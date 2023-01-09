@@ -11,6 +11,7 @@ Concretely, an extension for Mozilla Firefox
    4. The icon: 48 x 48 pixels or 96 x 96
    5. The 'content_scripts': indicates the patterns that has to match and the script to run
 6. Open the debug page (web page):  about:debugging
+   7. Concretely: about:debugging#/runtime/this-firefox 
    7. Click the Load Temporary Add-on button, then select any file in your extension's directory
 
 # Sources
